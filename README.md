@@ -1,5 +1,3 @@
-# Python-Ordbehandling-
-
 def findWord(string):
 #Hittar bara ordet ensamt och är case sensitive
 
